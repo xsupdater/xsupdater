@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xsupdater
 - 👀 I’m interested in "Kodi"
 - 🌱 I’m currently learning "python"
-- 💞️ I’m looking to collaborate on "xS-Home"
-- 📫 How to reach me - watch1dev'add'protonmail.com
+- 💞️ I’m Outside collaborator
 
 <!---
 xsupdater/xsupdater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
