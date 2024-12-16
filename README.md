@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xsupdater
 - 👀 I’m interested in "Kodi"
 - 🌱 I’m currently learning "python"
-- 💞️ I’m looking to collaborate on "xS-Home"
+- 💞️ I’m Outside collaborator
 - 📫 How to reach me - watch1dev'add'protonmail.com
 
 <!---
