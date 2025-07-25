@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Kodi"
 - 🌱 I’m currently learning "python"
 - 💞️ I’m Outside collaborator
-- 📫 How to reach me - watch1dev'add'protonmail.com
+- 📫 How to reach me - xsupdater'add'freenet.de
 
 <!---
 xsupdater/xsupdater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
